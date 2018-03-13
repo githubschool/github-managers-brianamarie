@@ -1,22 +1,22 @@
-#Wroclaw
+# Wroclaw
 
-##Restauratns
+## Restauratns
 - Marina
 - Pierogarnia
 - Bernard
 - La Scala
 
-##Bars
+## Bars
 - Spiz
 - Szajba
 - Whisky in the Jar
 
-##Nightlife
+## Nightlife
 - Manana
 - Grey
 - Lewitacja
 
-##Places to visit
+## Places to visit
 - Centennial Hall
 - University
 - Cathedral Island and other islands
