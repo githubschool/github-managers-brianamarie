@@ -6,6 +6,8 @@
 - Kleinmarkthalle
 - Eiserner Steg
 - Mainufer
+- Palmengarten
+- Liebighaus
 
 ## Restaurants
 - Zum Gemalten Haus
@@ -13,3 +15,5 @@
 - Fichtekränzi
 - Lorsbacher Thal
 - Kanonesteppel
+- Fisch Franke
+- Zu den 12 Aposteln
