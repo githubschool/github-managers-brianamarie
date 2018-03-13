@@ -5,7 +5,7 @@
 - Dom
 - Kleinmarkthalle
 - Eiserner Steg
-- Maiufer
+- Mainufer
 
 ## Restaurants
 - Zum Gemalten Haus
