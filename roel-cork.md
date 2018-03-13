@@ -9,6 +9,7 @@
 
 ## Sight Seeing
 - Butter Museum
+- Rising Suns Brewery
 
 ## Golf Courses
 - Old Heads
