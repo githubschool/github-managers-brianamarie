@@ -4,4 +4,4 @@
 - SAP apprentice
 
 #### Marcus Gessner
-- Roel's Manager
+- Roel's Manager (loosing 5 - 10)
