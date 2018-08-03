@@ -1,7 +1,7 @@
 # Cork, Ireland
 
 ## Restaurants
-- Cornstore Restaurant
+- Cornstore Restaurant #1
 
 ## Pubs
 - Oliver Plunket
